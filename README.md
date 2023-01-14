@@ -34,4 +34,4 @@ Vine:
 
 
 # Summary
-Based on the percentage of 5 star reviews in the vine program,there is no positivity bias in the vine program. The reviews are genuine. 
+Based on the percentage of 5 star reviews to total reviews in the vine program,there is no positivity bias in the vine program. The reviews are genuine. 
